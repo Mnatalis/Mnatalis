@@ -107,11 +107,7 @@ My background combines **engineering**, **cybersecurity** and **project manageme
 
 ---
 
-## 🚀 Featured Projects
-
-<!-- Projects will be added here -->
-
----
+<!-- Featured Projects section hidden for now -->
 
 ## 🎓 Certifications & Education
 
