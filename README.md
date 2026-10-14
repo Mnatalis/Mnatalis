@@ -18,7 +18,7 @@
 
 I'm an AI Solutions Architect who turns business problems into working AI systems. I design end-to-end solutions — LLM applications, multi-agent workflows, voice agents and automation — and connect them to the tools businesses already run on: CRMs, e-commerce, booking and property management platforms.
 
-My background combines **engineering**, **cybersecurity** and **project management**, so the systems I build are not only smart, but secure, maintainable and delivered on time. I've also been training people in AI since 2017.
+My background combines **engineering**, **cybersecurity** and **project management**, so the systems I build are not only smart, but secure, maintainable and delivered on time. I've also been training people in AI since 2023.
 
 ---
 
@@ -118,7 +118,7 @@ My background combines **engineering**, **cybersecurity** and **project manageme
 
 ## 👩‍🏫 Teaching & Community
 
-- AI trainer since **2017**
+- AI trainer since **2023**
 - Founder of **LearnFlow AI** and **VoiceAI Academy** — practical AI education
 - AI mentor in the UK startup ecosystem
 
