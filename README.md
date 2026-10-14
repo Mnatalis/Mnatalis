@@ -18,6 +18,8 @@
 
 I'm an AI Solutions Architect who turns business problems into working AI systems. I design end-to-end solutions — LLM applications, multi-agent workflows, voice agents and automation — and connect them to the tools businesses already run on: CRMs, e-commerce, booking and property management platforms.
 
+I don't only build from scratch — I also help companies **launch and improve AI systems they already have**. I run **AI audits** of existing setups (agents, voice bots, automations, prompts, integrations, data flows and costs), find what's slowing them down or putting them at risk, and turn the findings into a clear improvement plan.
+
 My background combines **engineering**, **cybersecurity** and **project management**, so the systems I build are not only smart, but secure, maintainable and delivered on time. I've also been training people in AI since 2023.
 
 ---
@@ -27,6 +29,7 @@ My background combines **engineering**, **cybersecurity** and **project manageme
 | Area | Focus |
 |---|---|
 | 🏗️ **LLM Application Architecture** | RAG, tool use / function calling, MCP servers, structured outputs |
+| 🔍 **AI Audit & Optimization** | Audits of existing AI systems: quality, reliability, cost, security; launch support and improvement roadmap |
 | 🤖 **AI Agents & Orchestration** | Multi-agent systems, agent frameworks, human-in-the-loop flows |
 | 🎙️ **Voice AI** | Inbound/outbound voice agents, telephony, real-time booking & CRM actions |
 | ⚙️ **Business Automation** | End-to-end workflows, post-call processing, lead routing |
