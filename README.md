@@ -110,19 +110,6 @@ My background combines **engineering**, **cybersecurity** and **project manageme
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mnatalis&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=7C3AED&icon_color=7C3AED" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mnatalis&layout=compact&theme=transparent&hide_border=true&title_color=7C3AED" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=Mnatalis&theme=transparent&hide_border=true&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" alt="GitHub streak" />
-
-</div>
-
----
-
 ## 🎓 Certifications & Education
 
 - 🔐 **Google Cybersecurity Professional Certificate**
@@ -139,9 +126,9 @@ My background combines **engineering**, **cybersecurity** and **project manageme
 
 ## 📫 Let's Connect
 
-<!-- Contact links will be added here -->
-
 <div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n-muzyka/)
 
 *Open to AI architecture consulting, voice AI and automation projects.*
 
